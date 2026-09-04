@@ -1,13 +1,19 @@
-# 🚀 Mini Projects with C
+# 🌈 Mini Project with C
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Mini+Project+with+C;Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Improve;My+C+Programming+Journey" alt="Mini Project with C">
+</p>
+
+<h2 align="center">👋 Welcome to the Repository</h2>
+
+<p align="center">
+  <b>A collection of mini projects built with C for learning and practical practice.</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Purpose-Learning%20%26%20Practice-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-</p>
-
-<p align="center">
-  <b>A collection of mini projects built with C for learning and practical practice.</b>
 </p>
 
 ---
@@ -122,7 +128,6 @@ If you find this repository useful, consider giving it a ⭐ **Star**.
 ## 👨‍💻 Author
 
 ### Amran Uddin
-
 
 
 ---
