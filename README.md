@@ -1,55 +1,136 @@
-# MY MINI PROJEcCT 🚀
+# 🚀 Mini Projects with C
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Purpose-Learning%20%26%20Practice-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
 
-Welcome to **MY MINI PROJEcCT** – a collection of practical mini projects built using **C**, **C++**, and **Python**.  
-
-This repository is my learning playground where I apply programming concepts to real-world problems and build a strong foundation in software development.
-
----
-
-
-## 🎯 Purpose of This Repo
-
-
-- Strengthen core programming logic
-- Build real-world applicable mini tools
-- Practice solving problems using C, C++, and Python
-- Create a personal portfolio of practical code examples
+<p align="center">
+  <b>A collection of mini projects built with C for learning and practical practice.</b>
+</p>
 
 ---
 
-## 📁 Project Categories
+## 📌 About
 
-- ✅ Console-based tools (calculator, converter, etc.)
-- ✅ File handling & string processing
-- ✅ Sorting & searching algorithms
-- ✅ Pattern printing & matrix manipulation
-- ✅ Real-world simulations and logic apps
-- ✅ Beginner games (Tic Tac Toe, Snake, etc.)
+**Mini Projects with C** is a personal learning repository where I build small projects using the **C programming language**.
 
----
+The main goal of this repository is to strengthen my programming fundamentals, improve problem-solving skills, and gain practical experience by building projects.
 
-## 💻 Languages Used
-
-| Language | Purpose |
-|----------|---------|
-| **C**        | Low-level logic, memory management, basic apps |
-| **C++**      | OOP, STL usage, class-based tools |
-| **Python**   | Quick scripts, automation, and data handling |
-
-Each project will include:
-- Problem description
-- Source code with comments
-- Input/output examples
-- Compilation/run instructions
+> **Learn → Practice → Build → Improve 🚀**
 
 ---
 
-## 📌 How to Run the Projects
+## 🎯 Purpose
 
-### 🔸 C / C++
+* 💻 Practice C programming
+* 🧠 Improve programming logic
+* 🧩 Develop problem-solving skills
+* 🛠️ Apply concepts through practical projects
+* 📚 Track my learning progress
+* 🚀 Build a foundation for advanced programming
+
+---
+
+## 📂 Projects
+
+| #  | Project                                                                                                                      |
+| -- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 01 | 📚 [Library Management System](https://github.com/amranuddin/My-mini-project-with-C/tree/main/Library%20Management%20System) |
+| 02 | 🧮 Calculator — Coming Soon                                                                                                  |
+| 03 | 🎓 Student Management System — Coming Soon                                                                                   |
+| 04 | 🎮 Tic Tac Toe — Coming Soon                                                                                                 |
+
+> More projects will be added as I continue learning C.
+
+---
+
+## 🧠 C Programming
+
+This repository will gradually cover different C programming concepts, including:
+
+* Variables & Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Arrays
+* Strings
+* Pointers
+* Structures
+* File Handling
+* Searching & Sorting
+* Recursion
+* Data Structures
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-Programming%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/GCC-Compiler-555555?style=flat-square&logo=gnu&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
+
+</p>
+
+---
+
+## 🌱 Learning Journey
+
+This repository represents my journey of learning **C programming through hands-on projects**.
+
+Each project is an opportunity to practice what I have learned, solve problems, and gradually improve my programming skills.
+
+```text
+📖 Learn
+   ↓
+💻 Practice
+   ↓
+🧩 Build
+   ↓
+🐛 Debug
+   ↓
+🚀 Improve
+```
+
+---
+
+## 📈 Progress
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Projects-1%20Completed-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/C-Learning-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem%20Solving-Practicing-green?style=for-the-badge">
+
+</p>
+
+This repository will be continuously updated as I build more C projects.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a ⭐ **Star**.
+
+---
+
+## 👨‍💻 Author
+
+### Amran Uddin
 
 
 
+---
 
+<p align="center">
+  <b>🚀 Learn • Code • Build • Improve</b>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</p>
