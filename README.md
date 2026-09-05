@@ -24,7 +24,7 @@
 
 The main goal of this repository is to strengthen my programming fundamentals, improve problem-solving skills, and gain practical experience by building projects.
 
-> **Learn → Practice → Build → Improve 🚀**
+> **Learn → Practice → Build →Improve 🚀**
 
 ---
 
