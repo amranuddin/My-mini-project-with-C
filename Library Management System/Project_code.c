@@ -11,6 +11,8 @@ struct Book
     int available;
 };
 
+
+
 struct Book books[MAX_BOOKS];
 int bookCount = 0;
 
