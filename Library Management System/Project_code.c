@@ -2,6 +2,7 @@
 #include <string.h>
 #define MAX_BOOKS 100
 
+
 struct Book
 {
     int id;
@@ -49,7 +50,6 @@ void addBook()
 void displayBooks()
 {
     int i;
-
     if (bookCount == 0)
     {
         printf("\nNo books available in the library.\n");
@@ -102,6 +102,7 @@ void searchBook()
     }
 
     if (found == 0)
+        
         printf("\nBook not found!\n");
 }
 
