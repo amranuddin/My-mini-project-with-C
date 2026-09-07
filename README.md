@@ -40,14 +40,12 @@ The main goal of this repository is to strengthen my programming fundamentals, i
 ---
 
 ## 📂 Projects
-
-| #  | Project                                                                                                                      |
-| -- | ---------------------------------------------------------------------------------------------------------------------------- |
+| #  | Project |
+|----|---------|
 | 01 | 📚 [Library Management System](https://github.com/amranuddin/My-mini-project-with-C/tree/main/Library%20Management%20System) |
-| 02 | 🧮 Calculator — Coming Soon (https://github.com/amranuddin/My-mini-project-with-C/tree/main/Calculator)                                                                                                 |
-| 03 | 🎓 Student Management System — Coming Soon                                                                                   |
-| 04 | 🎮 Tic Tac Toe — Coming Soon                                                                                                 |
-
+| 02 | 🧮 [Calculator](https://github.com/amranuddin/My-mini-project-with-C/tree/main/Calculator) |
+| 03 | 🎓 Student Management System — Coming Soon |
+| 04 | 🎮 Tic Tac Toe — Coming Soon |
 > More projects will be added as I continue learning C.
 
 ---
