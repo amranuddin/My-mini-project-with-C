@@ -1,4 +1,3 @@
-
 # 🧮 Calculator
 
 A simple **console-based Calculator** developed in **C** for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -40,41 +39,6 @@ A simple **console-based Calculator** developed in **C** for performing basic ar
 * 🔹 Input and Output
 * 🔹 Conditional Statements
 * 🔹 Basic Error Handling
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure **GCC** is installed on your system.
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Calculator.git
-cd Calculator
-```
-
-### Compile
-
-```bash
-gcc main.c -o calculator
-```
-
-### Run
-
-**Windows**
-
-```bash
-calculator.exe
-```
-
-**Linux / macOS**
-
-```bash
-./calculator
-```
 
 ---
 
